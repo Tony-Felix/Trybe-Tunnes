@@ -1,0 +1,10 @@
+ignore_files:
+  - src/tests/
+  - .eslintrc.json
+  - .eslintignore
+  - .stylelintrc.json
+  - .stylelintignore
+  - vite.config.ts
+  - tsconfig.json
+  - tsconfig.node.json
+  - setupTests.ts
